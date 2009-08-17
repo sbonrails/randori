@@ -1,0 +1,5 @@
+<% unless @card.nil? || @count.nil? || @cards_left.nil? %>
+  <%= image_tag @card.filename %><br />
+  <%= "The current count is: #{@count}"%><br />
+  <%= "Cards remaining: #{@cards_left}" %><br />
+<% end %>

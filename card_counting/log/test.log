@@ -1,0 +1,48 @@
+
+
+Processing CardsController#index (for 0.0.0.0 at 2009-08-12 19:57:47) [GET]
+
+
+Processing CardsController#index (for 0.0.0.0 at 2009-08-12 19:58:46) [GET]
+Rendering cards/index
+Completed in 14ms (View: 13, DB: 0) | 200 OK [http://test.host/cards]
+
+
+Processing CardsController#index (for 0.0.0.0 at 2009-08-12 20:01:18) [GET]
+Rendering cards/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/cards]
+
+
+Processing CardsController#index (for 0.0.0.0 at 2009-08-12 20:03:53) [GET]
+Rendering cards/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://test.host/cards]
+
+
+Processing CardsController#index (for 0.0.0.0 at 2009-08-12 20:04:06) [GET]
+Rendering cards/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://test.host/cards]
+
+
+Processing CardsController#index (for 0.0.0.0 at 2009-08-12 20:04:14) [GET]
+Rendering cards/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/cards]
+
+
+Processing CardsController#index (for 0.0.0.0 at 2009-08-12 20:04:40) [GET]
+Rendering cards/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/cards]
+
+
+Processing CardsController#index (for 0.0.0.0 at 2009-08-12 20:05:52) [GET]
+Rendering cards/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://test.host/cards]
+
+
+Processing CardsController#index (for 0.0.0.0 at 2009-08-12 20:20:22) [GET]
+Rendering cards/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://test.host/cards]
+
+
+Processing CardsController#index (for 0.0.0.0 at 2009-08-12 20:22:27) [GET]
+Rendering cards/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://test.host/cards]
